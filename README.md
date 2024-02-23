@@ -1,6 +1,6 @@
 # KTU Notifications Relevancy Classifier
 
-Code to inference and fine tune a [distilBERT](https://huggingface.co/distilbert/distilbert-base-uncased) based on **KTU Notification Data**.
+Code to inference and fine tune a [distilBERT](https://huggingface.co/distilbert/distilbert-base-uncased) model based on **KTU Notification Data**. To be used for live notification relevancy fitler for [KTU Bot](https://github.com/devadathanmb/ktu-bot).
 
 The dataset used to fine tune the model is [data.json](./data.json)
 
