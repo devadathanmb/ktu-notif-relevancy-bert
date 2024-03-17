@@ -10,12 +10,15 @@ Notebook used to train the model is provided at [relevancy_classifier.ipynb](./r
 
 ### Example : 1
 
+- Notification
+
 ```
 Notification : Exam registration date extended - B.Tech S2/S4/S6/S8 Exam May 2024(2019 scheme)
 ```
 
+- Result
+
 ```json
-// Result
 [
   [
     {
@@ -32,12 +35,15 @@ Notification : Exam registration date extended - B.Tech S2/S4/S6/S8 Exam May 202
 
 ### Example : 2
 
+- Notification
+
 ```
 Notification : APJ Abdul Kalam Technological University invites Expression of Interest (EOI) from firms for installation of pandal and stage, seating arrangements, internal electrification, public address system/ sound system, decoration of stage and pandal etc
 ```
 
+- Result
+
 ```json
-// Result
 [
   [
     {
